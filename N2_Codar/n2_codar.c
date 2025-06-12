@@ -15,10 +15,10 @@ int main(){
     scanf("%s", &nome);
 
     printf("Digite sua matricula: \n");
-    scanf("%d, &matricula");
+    scanf("%s, &matricula");
 
     printf("Nome do aluno: %s - Matrícula: %d", nome, matricula);
-    prinf("Idade %d - Altura %f", idade, altura);
+    printf("Idade %d - Altura %f", idade, altura);
     
     return 0;
 

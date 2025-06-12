@@ -12,4 +12,6 @@ int main(){
 
     quantidade = 10;
     
+    return 0;
+
 }
